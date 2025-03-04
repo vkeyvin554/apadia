@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+}
+
+
+
+
+#header{
+    width: 100%;
+    height: 150px;
+    background-color: cadetblue;
+    position: fixed;
+}
+#nama{
+    color: white;
+    padding: 20px;
+}
+#menu-bar{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.menu{
+    color: white;
+    width: 130px;
+    list-style: none;
+    text-align: center;
+    
+}
+#daftar-menu{
+    display: inline-flex;
+}
+.menu:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#menu:hover #bemacam{
+    display: block;
+    height: 200px;
+}
+#bemacam{
+    display: none;
+}
+#menu{
+    color: white;
+    list-style: none;
+    text-align: left;
+}
+#menu:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.artikel{
+    list-style: none;
+    margin-left: -20px;
+    padding-top: 10px;
+}
+.artikel:hover{
+    background-color: white;
+}
+
+ #nama{
+  font-family: "Playwrite AU SA", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+#korup:hover #sosmed{
+    display: block;
+    height: 200px;
+}
+#sosmed{
+    display: none;
+}
+#korup{
+    color: white;
+    list-style: none;
+    text-align: center;
+}
+#korup:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100px;
+    
+}
+.sosial{
+    list-style: none;
+    margin-left: -40px;
+    padding-top: 10px;
+    text-align: center;
+}
+.sosial:hover{
+    background-color: white;
+}
+.sidemenu{
+    width: 30%;
+    height: 600px;
+    background-color: cornflowerblue;
+    padding-top: 200px;
+}
+.isi{
+    width: 70%;
+    height: 2220px;
+    background-color: darkgray;
+}
+.bungkos{
+    width: 100%;
+    height: 700px;
+    background-color: azure;
+    display: flex;
+    
+}
+.pp{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    display: flex;
+    margin-top:230px;
+    justify-content:space-evenly;
+
+}
+.bulat{
+    width: 20%;
+    height: 270px;
+    background-color: white;
+    border-radius: 100%;;
+    margin-top:10px;
+}
+.pb{
+    width: 100%;
+    height: 342px;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 28px;
+}
+.ktk{
+    width: 45%;
+    height: 200px;
+    background-color: white;
+    margin-top: 50px;
+}
+.rpm{
+    width: 100%;
+    height: 270px;
+    border-radius: 100%;
+}
+#kanan{
+    width: 100%;
+    height: 200px;
+}
+#kiri{
+    width: 100%;
+    height: 200px;
+}
+.foto{
+    width: 50%;
+    height: 400px;
+    background-color: blueviolet;
+    margin: auto;
+}
+.profil{
+    width: 100%;
+    height: 400px;
+    background-color: darkgreen;
+}
+.menubawah{
+    color: black;
+    width: 130px;
+    list-style: none;
+    text-align: center;
+    margin: auto;
+}
+.menubawah:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: auto;
+}
+#menubawah:hover #bemacam{
+    display: block;
+    height: 200px;
+    margin: auto;
+}
+#acam{
+    display: none;
+}
+#menubawah{
+    color: black;
+    list-style: none;
+    text-align: left;
+}
+#menubawah:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.ingpo{
+    list-style: none;
+    margin-left: -20px;
+    padding-top: 10px;
+}
+.ingpo:hover{
+    background-color: white;
+}
+.apah{
+    width: 100%;
+    height: 1600px;
+    background-color:burlywood;
+    padding-top: 40px;
+}
+.judu{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.gbr{
+    width: 50%;
+    height: 400px;
+    background-color: crimson;
+    margin: auto;
+}
+.kejuaran{
+    text-align: center;
+}
+.madrid{
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    
+}
+.artikel-in{
+    width: 100%;
+    height: 90px;
+    background-color: gray;
+    margin-top: 300px;
+}
+.menu-2{
+    color: white;
+    width: 120px;
+    list-style: none;
+    text-align: center;
+}
+.menu-2:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.mata{
+    background-color: firebrick;
+    width: 100%;
+    height: 40%;
+    display: inline-flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
